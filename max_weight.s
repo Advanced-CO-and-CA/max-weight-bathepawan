@@ -6,8 +6,11 @@
 ******************************************************************************/
 
 /*
-  This is the starter code for assignment 2
-  */
+  Given a series of 32-bit numbers (in hexadecimal form), write and 
+  assembly program to determine which element ,in the series,
+  has the largest weight and store the number in NUM and its weight in WIEGHT
+
+*/
 
   @ BSS section
       .bss
